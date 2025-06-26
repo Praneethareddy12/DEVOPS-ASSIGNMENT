@@ -12,4 +12,3 @@ A simple web app built with Streamlit that displays my name:
 > *24955A0531*
 > *24955A0529*
 
-docker pull pranithareddy7/streamlitapp
