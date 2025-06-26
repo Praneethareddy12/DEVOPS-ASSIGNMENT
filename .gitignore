@@ -11,3 +11,5 @@ Thumbs.db
 
 # Logs or temp files
 *.log
+
+echo "streamlitapp.tar" >> .gitignore
