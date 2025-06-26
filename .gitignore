@@ -14,3 +14,4 @@ Thumbs.db
 
 echo "streamlitapp.tar" >> .gitignore
 
+
