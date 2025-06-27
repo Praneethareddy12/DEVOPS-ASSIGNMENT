@@ -4,7 +4,7 @@
 A simple web app built with Streamlit that displays my name:
 
 > *Hello from SAI PRANEETHA and Team!*
-> *We used Docker and Github along with streamlit to create a create a simple website that says 'Hello' to the user*
+> *We used Docker and Github along with streamlit to create a simple website that says 'Hello' to the user*
 
 > *THANKYOU!*
 > *Team Members:*
@@ -13,5 +13,3 @@ A simple web app built with Streamlit that displays my name:
 > *24955A0529*
 
 ![Streamlit Image Screenshot](screenshot.png)
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/pranithareddy7/streamlitapp)](https://hub.docker.com/r/pranithareddy7/streamlitapp)
